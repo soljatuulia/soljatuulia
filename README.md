@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Solja</h1>
-<h3 align="center">I'm a former journalist recently graduated from AW Academy’s 12 week Accelerated Learning program in Java programming, AWS and GCP.</h3>
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">I'm Solja, a former journalist recently graduated from AW Academy’s 12 week Accelerated Learning program in Java programming, AWS and GCP.</h3>
 
 - 🔭 I’m currently working on [University of Helsinki's Full Stack Open course](https://fullstackopen.com/en/)
 
