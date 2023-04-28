@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [University of Helsinki's Full Stack Open course](https://fullstackopen.com/en/)
 
-- 🌱 I’m currently learning **React, Redux, Node.js and MongoDB**
+- 🌱 And learning **React, Redux, Node.js and MongoDB**
 
 - 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/soljav/)
 
