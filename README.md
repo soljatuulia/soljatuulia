@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">I'm Solja, a former journalist recently graduated from AW Academy’s 12 week Accelerated Learning program in Java programming, AWS and GCP.</h3>
 
-- 🔭 I’m currently working on [University of Helsinki's Full Stack Open course](https://fullstackopen.com/en/)
+- 🔭 I’m currently working on [Helsinki City Bike App](https://github.com/soljatuulia/helsinki-city-bike-app)
 
-- 🌱 And learning **React, Redux, Node.js and MongoDB**
+- 🌱 And learning **Java, React, Redux, and MySQL**
 
 - 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/soljav/)
 
