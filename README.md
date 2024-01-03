@@ -1,9 +1,11 @@
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">I'm Solja, a former journalist recently graduated from AW Academy’s 12 week Accelerated Learning program in Java programming, AWS and GCP.</h3>
+<h3 align="center">I'm Solja, a junior developer and career shifter with a background in journalism. Shifting gears, I embraced a new challenge by completing an intensive program in Java programming, AWS and GCP during the winter of 2022-2023.
 
-- 🔭 I’m currently working on [Helsinki City Bike App](https://github.com/soljatuulia/helsinki-city-bike-app)
+Since then, I've been dedicated to expanding my technical skill set, with a focus on front-end technologies like React, JavaScript and TypeScript.</h3>
 
-- 🌱 And learning **Java, React, Redux, and MySQL**
+- 🔭 Currently I'm a trainee at Softlandia, contributing to front-end development projects, including the generative AI solution Yokot.ai. This has deepened my understanding and interest in creating effective user interfaces and LLM-powered applications.
+
+- 🌱 I'm also learning **Python, NumPy and Pandas**
 
 - 💬 Let's connect on [LinkedIn](https://www.linkedin.com/in/soljav/)
 
