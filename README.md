@@ -3,7 +3,7 @@
 
 <p><h4 align="center">Since then, I've been dedicated to expanding my technical skill set, with a focus on front-end technologies like React, JavaScript and TypeScript.</h4></p>
 
-- 🔭 Currently I'm a trainee at Softlandia, contributing to front-end development projects, including the generative AI solution Yokot.ai. This has deepened my understanding and interest in creating effective user interfaces and LLM-powered applications.
+- 🔭 Currently I'm a trainee at [Softlandia](https://softlandia.fi/), contributing to front-end development projects, including the generative AI solution [Yokot.ai](https://yokot.ai/). This has deepened my understanding and interest in creating effective user interfaces and LLM-powered applications.
 
 - 🌱 I'm also learning **Python, NumPy and Pandas**
 
