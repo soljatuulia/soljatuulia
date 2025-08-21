@@ -3,4 +3,4 @@
 
 <p>Since then, I've been dedicated to expanding my technical skill set. Working in Futurice's managed services since 2024, I get to to tackle multiple projects and a highly versatile tech stack on a day-to-day basis (Node.js. .NET, Spring Boot in backend, React and Typescript in frontend, PostgreSQL and GCP to name a few of the main ones).</p>
 
-<p>Let's connect on [LinkedIn](https://www.linkedin.com/in/soljav/)</p>
+<p>Let's connect on LinkedIn --> https://www.linkedin.com/in/soljav/</p>
